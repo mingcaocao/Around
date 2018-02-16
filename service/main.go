@@ -17,7 +17,7 @@ const(
 	TYPE = "post"
 	//PROJECT_ID = "maximal-zoo-194922"
 	//BT_INSTANCE = ""
-	ES_URL = "http://104.196.70.166:9200"
+	ES_URL = "http://35.227.69.222:9200"
 )
 
 type Location struct {
