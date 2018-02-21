@@ -21,7 +21,7 @@ const(
 	TYPE = "post"
 	//PROJECT_ID = "maximal-zoo-194922"
 	//BT_INSTANCE = ""
-	ES_URL = "http://35.227.69.222:9200"
+	ES_URL      = "http://35.227.69.222:9200"
 	BUCKET_NAME = "post-images-maximal-zoo-194922"
 )
 
