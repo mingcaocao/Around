@@ -13,7 +13,7 @@ import (
 	"context"
 	"cloud.google.com/go/storage"
 	"io"
-	"cloud.google.com/go/bigtable"
+	//"cloud.google.com/go/bigtable"
 	"github.com/auth0/go-jwt-middleware"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/mux"
